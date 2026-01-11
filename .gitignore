@@ -1,0 +1,4 @@
+*_progress.json
+*_fetch.log
+__pycache__/
+*.pyc
