@@ -1,0 +1,6 @@
+| title | code | about | language | stars | forks | watches | paper | pass^4 |
+|-------|------|-------|----------|-------|-------|---------|-------|--------|
+| IMAGDressing-v1: Customizable Virtual Dressing | [code](https://github.com/muzishen/IMAGDressing) | [AAAI 2025]👔IMAGDressing👔: Interactive Modular Apparel Generation for Virtual Dressing. It enables customizable human image generation with flexible garment, pose, and scene control, ensuring high fidelity and garment consistency for virtual dressing. | Python | 1321 | 117 | 16 |  | |
+| Temporal Action Localization with Cross Layer Task Decoupling and Refinement | [code](https://github.com/LiQiang0307/CLTDR-GMG) | Temporal Action Localization with Cross Layer Task Decoupling and Refinement | Python | 10 | 0 | 1 |  | |
+| Infinite-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation | [code](https://github.com/mayuelala/FollowYourCanvas) | [AAAI 2025] Follow-Your-Canvas: This repo is the official implementation of "Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation" | Python | 157 | 9 | 5 |  | |
+| Federated Causally Invariant Feature Learning | [code](https://github.com/Xianjie-Guo/FedCIFL) | Federated Causally Invariant Feature Learning | Python | 2 | 0 | 1 |  | |

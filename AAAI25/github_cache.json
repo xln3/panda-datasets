@@ -1,0 +1,34 @@
+{
+  "muzishen/IMAGDressing": {
+    "about": "[AAAI 2025]👔IMAGDressing👔: Interactive Modular Apparel Generation for Virtual Dressing. It enables customizable human image generation with flexible garment, pose, and scene control, ensuring high fidelity and garment consistency for virtual dressing.",
+    "language": "Python",
+    "stars": 1321,
+    "forks": 117,
+    "watches": 16,
+    "fetched_at": "2026-01-12T02:55:11.783547"
+  },
+  "LiQiang0307/CLTDR-GMG": {
+    "about": "Temporal Action Localization with Cross Layer Task Decoupling and Refinement",
+    "language": "Python",
+    "stars": 10,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:14.808674"
+  },
+  "mayuelala/FollowYourCanvas": {
+    "about": "[AAAI 2025] Follow-Your-Canvas: This repo is the official implementation of \"Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation\"",
+    "language": "Python",
+    "stars": 157,
+    "forks": 9,
+    "watches": 5,
+    "fetched_at": "2026-01-12T02:55:17.357982"
+  },
+  "Xianjie-Guo/FedCIFL": {
+    "about": "Federated Causally Invariant Feature Learning",
+    "language": "Python",
+    "stars": 2,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:19.916005"
+  }
+}

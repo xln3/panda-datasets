@@ -1,0 +1,746 @@
+{
+  "marmotlab/SIGMA": {
+    "about": "[ICRA 2025] SIGMA: Sheaf-Informed Geometric Multi-Agent Pathfinding - Public code and model",
+    "language": "Python",
+    "stars": 7,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:29.622329"
+  },
+  "WZX0Swarm0Robotics/KARMA": {
+    "about": "code example for karma",
+    "language": "",
+    "stars": 8,
+    "forks": 1,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:55:32.164673"
+  },
+  "zhanbh1019/SurgicalMotion": {
+    "about": "",
+    "language": "Jupyter Notebook",
+    "stars": 13,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:35.502035"
+  },
+  "anchang699/HGSLoc": {
+    "about": "",
+    "language": "Python",
+    "stars": 22,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:38.083559"
+  },
+  "ika-rwth-aachen/OCCUQ": {
+    "about": "[ICRA2025] OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction",
+    "language": "Python",
+    "stars": 47,
+    "forks": 4,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:55:40.684749"
+  },
+  "PieceZhang/MotionDCTrack": {
+    "about": "",
+    "language": "Python",
+    "stars": 4,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:43.256189"
+  },
+  "CrazyShout/CoDynTrust": {
+    "about": "ICRA 2025 paper: \"CoDynTrust: Robust Asynchronous Collaborative Perception via Dynamic Feature Trust Modulus\" code",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:45.828857"
+  },
+  "tud-amr/SVG-MPPI": {
+    "about": "Improving navigation in cluttered environments through movability awareness of blocking obstacles.",
+    "language": "Python",
+    "stars": 17,
+    "forks": 0,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:55:48.440560"
+  },
+  "ChrisChen1023/Micro-Robot-Swarm": {
+    "about": "",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:55:51.014889"
+  },
+  "CAV-Research-Lab/SACLA": {
+    "about": "Neural-Lyapunov-Approximation-SACLA",
+    "language": "Python",
+    "stars": 5,
+    "forks": 0,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:55:54.136445"
+  },
+  "valeoai/MF_aWTA": {
+    "about": "[ICRA2025] This is official implementation for annealed Winner-Takes-All loss in <Annealed Winner-Takes-All for Motion Forecasting>.",
+    "language": "Python",
+    "stars": 23,
+    "forks": 3,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:55:56.759974"
+  },
+  "Sephirex-X/LatentDriver": {
+    "about": "[ICRA 2025] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving (expert-level performance on Waymax)",
+    "language": "Python",
+    "stars": 76,
+    "forks": 5,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:55:59.311330"
+  },
+  "AlniyatRui/CAFE-AD": {
+    "about": "[ICRA 25]CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving",
+    "language": "Python",
+    "stars": 45,
+    "forks": 3,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:56:01.882512"
+  },
+  "ThalesGroup/promi": {
+    "about": "Code for our ICRA 2025 paper \"ProMi: An Efficient Prototype-Mixture Baseline for Few-Shot Segmentation with Bounding-Box Annotations\"",
+    "language": "Python",
+    "stars": 10,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:04.842773"
+  },
+  "HaochenZ11/IRef-VLA": {
+    "about": "",
+    "language": "Python",
+    "stars": 13,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:07.413165"
+  },
+  "gjgjh/PTZ-Calib": {
+    "about": "[ICRA 2025] PTZ-Calib: Robust Pan-Tilt-Zoom Camera Calibration",
+    "language": "C++",
+    "stars": 24,
+    "forks": 3,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:09.970927"
+  },
+  "zhen6618/EPRecon": {
+    "about": "EPRecon: An Efficient Framework for Real-Time Panoptic 3D Reconstruction from Monocular Video (ICRA2025)",
+    "language": "Python",
+    "stars": 305,
+    "forks": 2,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:56:12.529863"
+  },
+  "minwoo0611/HeLiOS": {
+    "about": "[ICRA2025] HeLiOS: Heterogeneous LiDAR Place Recognition",
+    "language": "Python",
+    "stars": 99,
+    "forks": 1,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:56:15.096456"
+  },
+  "RemkoPr/icra2025-SMI-tactile-sensing": {
+    "about": "",
+    "language": "Jupyter Notebook",
+    "stars": 3,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:17.631949"
+  },
+  "podgorki/TANGO": {
+    "about": "This is the official implementation of the ICRA 2025 paper TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals",
+    "language": "Python",
+    "stars": 45,
+    "forks": 2,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:20.179862"
+  },
+  "sntubix/denser": {
+    "about": "",
+    "language": "Python",
+    "stars": 27,
+    "forks": 2,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:56:22.787723"
+  },
+  "dongjae0107/ELite": {
+    "about": "[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping",
+    "language": "Python",
+    "stars": 151,
+    "forks": 8,
+    "watches": 16,
+    "fetched_at": "2026-01-12T02:56:25.358785"
+  },
+  "XR-Lee/neural-symbolic": {
+    "about": "",
+    "language": "Python",
+    "stars": 92,
+    "forks": 5,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:56:27.944617"
+  },
+  "SJTU-ViSYS-team/ThermoStereoRT": {
+    "about": "ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement(ICRA2025)",
+    "language": "",
+    "stars": 7,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:30.589117"
+  },
+  "guoyangzhao/FisheyeDepth": {
+    "about": "FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera",
+    "language": "",
+    "stars": 43,
+    "forks": 3,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:56:33.121947"
+  },
+  "wooseongY/Go-RIO": {
+    "about": "[ICRA 2025 Best Paper Award Finalist] Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process",
+    "language": "C++",
+    "stars": 102,
+    "forks": 6,
+    "watches": 6,
+    "fetched_at": "2026-01-12T02:56:35.692290"
+  },
+  "guoyangzhao/TSCLIP": {
+    "about": "Robust CLIP Fine-tuning for Worldwide Cross-Regional Traffic Sign Recognition",
+    "language": "",
+    "stars": 7,
+    "forks": 2,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:56:38.259573"
+  },
+  "wurenkai/RSF-Dehaze": {
+    "about": "[ICRA 2025] The official code for \"Toward Zero-Shot Learning for Visual Dehazing of Urological Surgical Robots\".",
+    "language": "Python",
+    "stars": 6,
+    "forks": 0,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:56:41.157322"
+  },
+  "huawen-hu/HARP": {
+    "about": "",
+    "language": "",
+    "stars": 1,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:43.762331"
+  },
+  "EverNorif/PUGS": {
+    "about": "[ICRA 2025] PUGS: Zero-shot Physical Understanding with Gaussian Splatting.",
+    "language": "C++",
+    "stars": 103,
+    "forks": 6,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:56:46.325911"
+  },
+  "robotic-manipulation/RNDF": {
+    "about": "Official Implementation for “Implicit Articulated Robot Morphology Modeling with Configuration Space Neural Signed Distance Functions” (ICRA 2025)",
+    "language": "Python",
+    "stars": 7,
+    "forks": 2,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:56:48.865570"
+  },
+  "Tsinghua-MARS-Lab/TrackOcc": {
+    "about": "[ICRA 2025] Official implementation for \"TrackOcc: Camera-based 4D Panoptic Occupancy Tracking\"",
+    "language": "Python",
+    "stars": 54,
+    "forks": 5,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:56:51.871322"
+  },
+  "url-kaist/MambaGlue": {
+    "about": "MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25",
+    "language": "Python",
+    "stars": 263,
+    "forks": 21,
+    "watches": 17,
+    "fetched_at": "2026-01-12T02:56:54.804968"
+  },
+  "brytsknguyen/uloc": {
+    "about": "",
+    "language": "Python",
+    "stars": 33,
+    "forks": 2,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:56:57.363433"
+  },
+  "lrse-uba/coVoxSLAM": {
+    "about": "",
+    "language": "",
+    "stars": 24,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:57:00.199411"
+  },
+  "KTH-RPL/SSF": {
+    "about": "[ICRA'25] SSF: Sparse Long-Range Scene Flow for Autonomous Driving",
+    "language": "Python",
+    "stars": 2,
+    "forks": 1,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:57:02.923960"
+  },
+  "pengxuanyang/UncAD": {
+    "about": "[ICRA 2025] Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty",
+    "language": "Python",
+    "stars": 8,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:57:05.469926"
+  },
+  "Nightwatch-Fox11/CGTrack": {
+    "about": "[ICRA 2025] CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking",
+    "language": "",
+    "stars": 1,
+    "forks": 0,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:57:08.037791"
+  },
+  "Nathan-Li123/LaMOT": {
+    "about": "[ICRA 2025] LaMOT: Language-Guided Multi-Object Tracking",
+    "language": "",
+    "stars": 29,
+    "forks": 2,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:57:10.590429"
+  },
+  "yihangtao/Directed-CP": {
+    "about": "This is the official implenmentation of \"Directed-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention\"",
+    "language": "Python",
+    "stars": 8,
+    "forks": 0,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:57:13.880999"
+  },
+  "bairuofei/LoS_constrained_navigation": {
+    "about": "[ICRA 2025]: A line-of-sight constrained multi-robot navigation method that can be applied in complex unknown environments.",
+    "language": "Python",
+    "stars": 35,
+    "forks": 0,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:57:16.890492"
+  },
+  "phi-wol/hydra": {
+    "about": "Official codebase of HyDRa.",
+    "language": "",
+    "stars": 46,
+    "forks": 2,
+    "watches": 6,
+    "fetched_at": "2026-01-12T02:57:19.443013"
+  },
+  "PRBonn/enm-mcl": {
+    "about": "ENM-MCL: Efficient Neural Map for Monte Carlo Localization",
+    "language": "Python",
+    "stars": 43,
+    "forks": 2,
+    "watches": 5,
+    "fetched_at": "2026-01-12T02:57:22.079534"
+  },
+  "Yixin-F/LiLoc": {
+    "about": "(ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph",
+    "language": "C++",
+    "stars": 360,
+    "forks": 42,
+    "watches": 9,
+    "fetched_at": "2026-01-12T02:57:24.624351"
+  },
+  "centiLinda/AToM-human-prediction": {
+    "about": "[ICRA 2025] Official implementation of the paper \"AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions\"",
+    "language": "Python",
+    "stars": 3,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:57:27.639014"
+  },
+  "ChadLin9596/Robust-Scene-Change-Detection": {
+    "about": "[ICRA-2025] Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms",
+    "language": "Python",
+    "stars": 42,
+    "forks": 3,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:57:30.188113"
+  },
+  "APRIL-ZJU/Gaussian-LIC": {
+    "about": "[ICRA 2025] Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion",
+    "language": "C++",
+    "stars": 437,
+    "forks": 37,
+    "watches": 25,
+    "fetched_at": "2026-01-12T02:57:33.209352"
+  },
+  "CNJianLiu/MonoDiff9D": {
+    "about": "[ICRA'25] Code for \"MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model\".",
+    "language": "Python",
+    "stars": 36,
+    "forks": 6,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:57:36.197253"
+  },
+  "XiandaGuo/OpenStereo": {
+    "about": "OpenStereo: A Comprehensive Benchmark for Stereo Matching ",
+    "language": "Python",
+    "stars": 828,
+    "forks": 98,
+    "watches": 17,
+    "fetched_at": "2026-01-12T02:57:38.750652"
+  },
+  "VitaLemonTea1/CIGOcc": {
+    "about": "CIGOcc: Complementary Information Guided Occupancy Prediction via Multi-Level Representation Fusion",
+    "language": "",
+    "stars": 7,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:57:41.331944"
+  },
+  "SJTU-MKH/OCLTrav": {
+    "about": "",
+    "language": "Dockerfile",
+    "stars": 11,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:57:43.915993"
+  },
+  "swc-17/SparseDrive": {
+    "about": "SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation",
+    "language": "Python",
+    "stars": 824,
+    "forks": 115,
+    "watches": 17,
+    "fetched_at": "2026-01-12T02:57:46.499354"
+  },
+  "HKUST-Aerial-Robotics/SLABIM": {
+    "about": "An open-sourced SLAM dataset that couples with BIM (Building Information Modeling).",
+    "language": "Python",
+    "stars": 196,
+    "forks": 11,
+    "watches": 8,
+    "fetched_at": "2026-01-12T02:57:49.139501"
+  },
+  "BAAI-DCAI/SpatialBot": {
+    "about": "The official repo for \"SpatialBot: Precise Spatial Understanding with Vision Language Models.",
+    "language": "Python",
+    "stars": 327,
+    "forks": 23,
+    "watches": 5,
+    "fetched_at": "2026-01-12T02:57:51.698885"
+  },
+  "3DAgentWorld/SCA3D": {
+    "about": "SCA3D: Enhancing Cross-modal 3D Retrieval via 3D Shape and Caption Paired Data Augmentation (ICRA 2025)",
+    "language": "Python",
+    "stars": 7,
+    "forks": 0,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:57:54.775391"
+  },
+  "LeeBY68/Hier-SLAM": {
+    "about": "🌳 [ICRA'25] Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation",
+    "language": "Python",
+    "stars": 154,
+    "forks": 8,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:57:57.316762"
+  },
+  "ChiyunNoh/GaRLIO": {
+    "about": "GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry [ICRA 2025]",
+    "language": "C++",
+    "stars": 97,
+    "forks": 9,
+    "watches": 7,
+    "fetched_at": "2026-01-12T02:57:59.854734"
+  },
+  "lunarlab-gatech/Morphology-Informed-HGNN": {
+    "about": "[ICRA 2025] We present a Morphology-Informed Heterogeneous Graph Neural Network (MI-HGNN) for learning-based contact perception. The architecture and connectivity of the MI-HGNN are constructed from the robot morphology.",
+    "language": "Python",
+    "stars": 35,
+    "forks": 5,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:02.437002"
+  },
+  "IvanIZ/predictive-asv-planner": {
+    "about": "Codes for our paper \"Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions\"",
+    "language": "Python",
+    "stars": 2,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:04.993837"
+  },
+  "MrKeee/COHERENT": {
+    "about": "[Submitted to ICRA2025]COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models",
+    "language": "Python",
+    "stars": 72,
+    "forks": 12,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:07.537981"
+  },
+  "rllab-snu/Stage-Wise-CMORL": {
+    "about": "This is an official GitHub Repository for paper \"Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach\".",
+    "language": "Python",
+    "stars": 183,
+    "forks": 26,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:10.182153"
+  },
+  "DeanJY/FACET": {
+    "about": "Code for FAEET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality",
+    "language": "Jupyter Notebook",
+    "stars": 8,
+    "forks": 0,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:58:12.763304"
+  },
+  "Imran2205/LogicRAG": {
+    "about": "Implementation of Logic-RAG",
+    "language": "Jupyter Notebook",
+    "stars": 14,
+    "forks": 2,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:58:15.308140"
+  },
+  "GuanRunwei/Talk2Radar": {
+    "about": "",
+    "language": "Python",
+    "stars": 41,
+    "forks": 5,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:58:19.195387"
+  },
+  "MIT-SPARK/KISS-Matcher": {
+    "about": "KISS-Matcher: Fast, Robust, and Scalable Registration + ROS2 SLAM examples",
+    "language": "C++",
+    "stars": 616,
+    "forks": 65,
+    "watches": 26,
+    "fetched_at": "2026-01-12T02:58:21.798577"
+  },
+  "nubot-nudt/DOSS": {
+    "about": "[ICRA25] A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data",
+    "language": "Python",
+    "stars": 22,
+    "forks": 0,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:58:24.391546"
+  },
+  "L-J-Yuan/MODEST": {
+    "about": "Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion (ICRA2025)",
+    "language": "Python",
+    "stars": 24,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:26.964161"
+  },
+  "SJTU-ViSYS-team/VisFly": {
+    "about": "This is a fast and versatile simulator for training vision-based flight of drones.",
+    "language": "Python",
+    "stars": 113,
+    "forks": 6,
+    "watches": 5,
+    "fetched_at": "2026-01-12T02:58:29.605899"
+  },
+  "YitianShi/vMF-Contact": {
+    "about": "Repository for \"vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter\"",
+    "language": "Python",
+    "stars": 20,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:32.158733"
+  },
+  "lyp-deeplearning/LiftFeat": {
+    "about": "Code for \"LiftFeat: 3D Geometry-Aware Local Feature Matching\", ICRA2025",
+    "language": "Python",
+    "stars": 227,
+    "forks": 20,
+    "watches": 10,
+    "fetched_at": "2026-01-12T02:58:34.725728"
+  },
+  "Haochen-Niu/STGPlanner": {
+    "about": "",
+    "language": "C++",
+    "stars": 22,
+    "forks": 1,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:58:37.290051"
+  },
+  "SYSU-RoboticsLab/NaviD": {
+    "about": "",
+    "language": "Python",
+    "stars": 45,
+    "forks": 2,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:58:40.335972"
+  },
+  "byungokhan/Space-awareVLM": {
+    "about": "",
+    "language": "Python",
+    "stars": 11,
+    "forks": 1,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:58:42.914788"
+  },
+  "RuiHuangNUS/MARS-Reconfig": {
+    "about": "[ICRA 2025]Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems",
+    "language": "Python",
+    "stars": 24,
+    "forks": 0,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:58:45.873837"
+  },
+  "yanzq95/DHD": {
+    "about": "Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction (ICRA 2025)",
+    "language": "Python",
+    "stars": 51,
+    "forks": 5,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:58:48.861559"
+  },
+  "vincentweikey/LiDARDustX": {
+    "about": "LiDARDustX Dataset official page",
+    "language": "",
+    "stars": 14,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:58:51.869526"
+  },
+  "franciszchen/SurgPLAN-Plus": {
+    "about": "",
+    "language": "",
+    "stars": 3,
+    "forks": 0,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:58:54.668884"
+  },
+  "HITSZ-NRSL/RCPCC": {
+    "about": "[ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots",
+    "language": "C++",
+    "stars": 118,
+    "forks": 7,
+    "watches": 4,
+    "fetched_at": "2026-01-12T02:58:57.292357"
+  },
+  "utiasASRL/vtr3": {
+    "about": "VT&R3 is a C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.",
+    "language": "C++",
+    "stars": 140,
+    "forks": 28,
+    "watches": 27,
+    "fetched_at": "2026-01-12T02:58:59.928741"
+  },
+  "FreyZhangYeh/SA-RCD": {
+    "about": "",
+    "language": "Python",
+    "stars": 15,
+    "forks": 2,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:59:02.471003"
+  },
+  "D-Robotics-AI-Lab/DOSOD": {
+    "about": "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space",
+    "language": "Python",
+    "stars": 96,
+    "forks": 6,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:59:05.106650"
+  },
+  "MARVL-Lab/MERLION": {
+    "about": "MERLION",
+    "language": "Python",
+    "stars": 1,
+    "forks": 1,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:59:07.685482"
+  },
+  "ruiqizhang99/ProxFly": {
+    "about": "The official codebase of manuscript “ProxFly: Robust Control for Close Proximity Quadcopter Flight via Residual Reinforcement Learning\"",
+    "language": "Python",
+    "stars": 20,
+    "forks": 2,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:59:10.262720"
+  },
+  "SonSang/diffidm": {
+    "about": "Official implementation for \"Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation\" (ICRA 2025).",
+    "language": "Python",
+    "stars": 7,
+    "forks": 1,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:59:12.862318"
+  },
+  "ChipsICU/Dual-AEB": {
+    "about": "Official code repository of Dual AEB",
+    "language": "Python",
+    "stars": 17,
+    "forks": 4,
+    "watches": 2,
+    "fetched_at": "2026-01-12T02:59:15.434966"
+  },
+  "vita-epfl/MonoTransmotion": {
+    "about": "[ICRA 2025] Official implementation of \"MonoTransmotion\" in PyTorch.",
+    "language": "Python",
+    "stars": 15,
+    "forks": 3,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:59:18.035972"
+  },
+  "Keio-CSG/slamspoof": {
+    "about": "(ICRA'25) \"SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis\"",
+    "language": "Python",
+    "stars": 24,
+    "forks": 3,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:59:20.626219"
+  },
+  "harshmuriki/flowerPose": {
+    "about": "Robotic Phenotyping for Small-Scale Urban Farms",
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "forks": 0,
+    "watches": 1,
+    "fetched_at": "2026-01-12T02:59:23.594724"
+  },
+  "NorthSummer/SliceOcc": {
+    "about": "",
+    "language": "Python",
+    "stars": 27,
+    "forks": 3,
+    "watches": 3,
+    "fetched_at": "2026-01-12T02:59:26.568541"
+  },
+  "CUHK-AIM-Group/Polyp-Gen": {
+    "about": "[ICRA 2025] Polyp-Gen: Realistic and Diverse Polyp Image Generation for Endoscopic Dataset Expansion",
+    "language": "Python",
+    "stars": 22,
+    "forks": 2,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:59:29.473907"
+  },
+  "mit-acl/tcaff": {
+    "about": "[ICRA 2025] TCAFF: a multiple hypothesis algorithm for aligning coordinate frames of collaborative robots",
+    "language": "Python",
+    "stars": 17,
+    "forks": 0,
+    "watches": 5,
+    "fetched_at": "2026-01-12T02:59:32.087241"
+  },
+  "RISELabPurdue/MBE-ARI": {
+    "about": "Official Github Repository for the paper MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction",
+    "language": "",
+    "stars": 1,
+    "forks": 0,
+    "watches": 0,
+    "fetched_at": "2026-01-12T02:59:35.711849"
+  },
+  "zhouhengli/VPMPCC": {
+    "about": "[ICRA 2025] MPC Code for the paper \"A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction\"",
+    "language": "Python",
+    "stars": 16,
+    "forks": 6,
+    "watches": 5,
+    "fetched_at": "2026-01-12T02:59:38.713665"
+  }
+}
